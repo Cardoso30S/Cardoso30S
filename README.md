@@ -36,7 +36,7 @@ Transformando linhas de código em soluções reais e formando a próxima geraç
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso30S&layout=compact&langs_count=7&theme=radical" />
 </p>
 
----
+--
 
 ### 📫 Vamos nos conectar?
 [https://www.linkedin.com/in/luis-felipe-cardos0/] | [https://www.instagram.com/lfelipecardoso/]
