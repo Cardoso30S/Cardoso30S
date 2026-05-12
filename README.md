@@ -1,4 +1,4 @@
-# Olá, eu sou o Luis Felipe! 👋
+# Olá, eu sou o Luis Felipe Cardoso! 👋
 
 ### 👨‍🏫 Professor de Desenvolvimento de Sistemas @ SENAI Taubaté
 Transformando linhas de código em soluções reais e formando a próxima geração de desenvolvedores. Atuo no ensino técnico focado em stacks modernas e infraestrutura ágil.
