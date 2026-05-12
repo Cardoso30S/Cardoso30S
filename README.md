@@ -32,11 +32,11 @@ Transformando linhas de código em soluções reais e formando a próxima geraç
 
 ### 📊 Estatísticas de Desenvolvedor
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cardoso30S&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso30S&layout=compact&langs_count=7&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cardoso30S&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cardoso30S&layout=compact&langs_count=7&theme=radical" />
 </p>
 
---
+---
 
 ### 📫 Vamos nos conectar?
 [https://www.linkedin.com/in/luis-felipe-cardos0/] | [https://www.instagram.com/lfelipecardoso/]
