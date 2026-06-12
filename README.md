@@ -1,18 +1,18 @@
-# Olá, eu sou o Luis Felipe Cardoso! 👋
+# Olá, eu sou o Luis Felipe Cardoso! 
 
-### 👨‍🏫 Professor de Desenvolvimento de Sistemas @ SENAI Taubaté
+###  Professor de Desenvolvimento de Sistemas @ SENAI Taubaté
 Transformando linhas de código em soluções reais e formando a próxima geração de desenvolvedores. Atuo no ensino técnico focado em stacks modernas e infraestrutura ágil.
 
 ---
 
-### 🚀 Sobre Mim
-- 🎓 Formado em Engenharia da Computação e Pós-graduado em **Web Design** e atualmente cursando Especialização em **Educação Técnica e a Distância**.
-- 🛠️ Especialista em arquitetura de software com foco em **Flutter + Supabase** e ecossistemas **PHP/JS**.
-- 🥁 Fora das telas, sou baterista e entusiasta de teoria musical.
+###  Sobre Mim
+-  Formado em Engenharia da Computação e Pós-graduado em **Web Design** e atualmente cursando Especialização em **Educação Técnica e a Distância**.
+-  Especialista em arquitetura de software com foco em **Flutter + Supabase** e ecossistemas **PHP/JS**.
+-  Fora das telas, sou baterista e entusiasta de teoria musical.
 
 ---
 
-### 💻 Stack Tecnológica
+###  Stack Tecnológica
 
 #### Linguagens & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -30,7 +30,7 @@ Transformando linhas de código em soluções reais e formando a próxima geraç
 
 ---
 
-### 📊 Estatísticas de Desenvolvedor
+###  Estatísticas de Desenvolvedor
 <p align="left">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Cardoso30S&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Cardoso30S&layout=compact&langs_count=7&theme=radical" />
@@ -38,7 +38,7 @@ Transformando linhas de código em soluções reais e formando a próxima geraç
 
 ---
 
-### 📫 Vamos nos conectar?
+###  Vamos nos conectar?
 [https://www.linkedin.com/in/luis-felipe-cardos0/] | [https://www.instagram.com/lfelipecardoso/]
 
 <!--
